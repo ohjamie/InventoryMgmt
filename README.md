@@ -1,2 +1,7 @@
 # InventoryMgmt
-Java I Class Project (Initial Draft): Inventory Management Program
+Java I Class Project: Inventory Management Program
+
+Initial draft:
+No external libraries
+No frameworks
+JavaFX for GUI
