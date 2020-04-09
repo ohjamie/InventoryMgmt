@@ -1,7 +1,8 @@
 # InventoryMgmt
 Java I Class Project: Inventory Management Program
 
-Initial draft:
+Initial draft
 No external libraries
 No frameworks
 JavaFX for GUI
+MVC Design Pattern
