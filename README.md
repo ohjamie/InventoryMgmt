@@ -6,3 +6,4 @@ No external libraries
 No frameworks
 JavaFX for GUI
 MVC Design Pattern
+
