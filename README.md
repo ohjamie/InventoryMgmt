@@ -1,5 +1,5 @@
 # InventoryMgmt
-Java I Class Project: Inventory Management Program
+Java I Class Project (Draft): Inventory Management Program
 
 Initial draft
 
